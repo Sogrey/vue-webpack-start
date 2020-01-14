@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "npm 安装 vue （webpack ），入门级",
   "author": "sogrey <suzhaoheng2006@163.com>",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
